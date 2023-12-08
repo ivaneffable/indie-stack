@@ -1,4 +1,6 @@
 app = "indie-stack-9b95"
+primary_region = "mad"
+
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
